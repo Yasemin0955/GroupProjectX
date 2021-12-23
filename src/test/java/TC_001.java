@@ -3,4 +3,14 @@ public class TC_001 {
 //part1
     //part2
     //complete
+
+
+    //part1 by muni
+
+
+
+
+
+
+
 }
